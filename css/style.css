@@ -329,7 +329,7 @@ header .copyright {
 }
 .mobile-header .site-title {
   vertical-align: middle;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 700;
 }
 .mobile-header .site-title.dot:after {
@@ -1371,13 +1371,13 @@ section.padding-60 {
 .footer-social .social-icons li a{
   color: #FFF;
   background: #4d72e7;
-  font-size: 43px;
+  font-size: 34px;
   border-radius: 5px;
   display: block;
-  height: 65px;
-  line-height: 65px;
+  height: 50px;
+  line-height: 50px;
   text-align: center;
-  width: 65px;
+  width: 50px;
 }
 /* === Go to Top === */
 #return-to-top {
@@ -1689,7 +1689,7 @@ section.padding-60 {
   }
 
   .hero .cta h1 {
-    font-size: 36px;
+    font-size: 23px;
   }
 }
 @media only screen and (max-height: 610px) {
