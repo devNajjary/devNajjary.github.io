@@ -571,6 +571,7 @@ section.padding-60 {
 }
 .entry .body p {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /*=================================================================*/
@@ -962,7 +963,7 @@ section.padding-60 {
 
 .icon-simple {
   color: #FF5959;
-  font-size: 24px;
+  font-size: 50px;
 }
 
 #infscr-loading {
@@ -1367,7 +1368,17 @@ section.padding-60 {
   color: #FF5959;
   background: #FFF;
 }
-
+.footer-social .social-icons li a{
+  color: #FFF;
+  background: #4d72e7;
+  font-size: 43px;
+  border-radius: 5px;
+  display: block;
+  height: 65px;
+  line-height: 65px;
+  text-align: center;
+  width: 65px;
+}
 /* === Go to Top === */
 #return-to-top {
   position: fixed;
